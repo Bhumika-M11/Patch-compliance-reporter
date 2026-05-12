@@ -1,0 +1,10 @@
+SQL injection detected in login form
+XSS vulnerability found in search bar
+Weak password policy enabled
+Open admin endpoint exposed
+Outdated Apache server detected
+Suspicious traffic spike from unknown IP
+Remote code execution vulnerability found
+JWT token missing expiration
+Sensitive logs publicly accessible
+Firewall misconfiguration detected

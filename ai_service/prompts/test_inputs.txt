@@ -1,0 +1,10 @@
+Server A missing 10 patches high risk
+Linux server outdated kernel critical vulnerability
+Windows server pending updates medium risk
+Database server no patches applied high risk
+Cloud instance outdated security patches
+Legacy server unsupported OS critical
+Production server 5 missing patches low risk
+API server moderate vulnerabilities detected
+Backup server outdated packages
+Dev server minor patch delay
